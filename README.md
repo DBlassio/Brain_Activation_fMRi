@@ -1,5 +1,17 @@
 # Decoding Cognitive States from fMRI: Math vs. Story
 
+## Requirements  
+- Python ≥ 3.7  
+- Nilearn  
+- NumPy  
+- Pandas  
+- SciPy  
+- scikit‑learn  
+- XGBoost  
+- Matplotlib  
+- Seaborn  
+- Requests 
+
 ## Overview
 This project investigates how the brain shifts between **calculation** and **narrative comprehension** by analyzing task-based fMRI data from the Human Connectome Project. We ask:
 
